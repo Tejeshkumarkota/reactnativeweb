@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "first_name": "Joe",
+    "username": "Joe",
+    "userType": "FC",
+    "email": "fc@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 2,
+    "first_name": "John",
+    "username": "John",
+    "userType": "FCS",
+    "email": "fcs@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 3,
+    "first_name": "Peter",
+    "username": "Peter",
+    "userType": "FCSS",
+    "email": "fcss@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 4,
+    "first_name": "Sam",
+    "username": "Sam",
+    "userType": "FMS",
+    "email": "fms@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 5,
+    "first_name": "Nick",
+    "username": "Nick",
+    "userType": "FMT",
+    "email": "fmt@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 6,
+    "first_name": "James",
+    "username": "James",
+    "userType": "FINANCE",
+    "email": "finance@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 7,
+    "first_name": "David",
+    "username": "David",
+    "userType": "MT",
+    "email": "marketingteam@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 8,
+    "first_name": "John",
+    "username": "John",
+    "userType": "PRE",
+    "email": "propertyexe@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 9,
+    "first_name": "Jim",
+    "username": "Jim",
+    "userType": "PRM",
+    "email": "propertyman@nomail.com",
+    "gender": "Male",
+    "dob": "28-10-1990",
+    "age": "31",
+    "phone": "998809878"
+  },
+  {
+    "id": 10,
+    "first_name": "Jimmy",
+    "username": "Jimmy",
+    "userType": "PRM",
+    "email": "marketingadmin@nomail.com",
+    "gender": "Male",
+    "dob": "28-11-1990",
+    "age": "31",
+    "phone": "998809878"
+  }
+]
